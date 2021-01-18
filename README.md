@@ -14,6 +14,6 @@ I would like to work on cloud technologies in the future.
 
 ## Links:
 
-My Gitub repository @ https://github.com/mohanpratapa?tab=repositories (Links to an external site.) 
+My Gitub repository @ https://github.com/mohanpratapa?tab=repositories 
 
 
